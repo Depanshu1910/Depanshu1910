@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Depanshu1910
+- 👋 Hi, I’m DEPANSHU RANAKOTI
 -🎓 I'm a student pursuing Bachelor of Technology(ECE).
 - 👀 I’m interested in learning new programming language.
 - 🌱 I’m currently learning C++ .
